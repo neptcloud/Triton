@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyAlljoyn</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="input_text">Input:</string>
+	<string name="result">Result:</string>
+	<string name="button_test">TEST</string>
+</resources>
